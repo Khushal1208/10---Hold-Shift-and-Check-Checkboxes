@@ -18,7 +18,7 @@ I built a Checkbox Manager where you can:
 📌 File selection in Windows/Mac
 📌 Bulk actions in web applications
 
-👨‍💻 Code in Action: [Project Link (if available)]
+👨‍💻 Code in Action: (https://khushal1208.github.io/10---Hold-Shift-and-Check-Checkboxes/)
 
 This challenge keeps getting more exciting! Looking forward to Day 11! 🔥
 
